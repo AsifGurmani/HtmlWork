@@ -1,0 +1,86 @@
+body{
+    margin: 0px;
+background-image: aaa.jpg;
+}
+.nav{
+    border-radius:1px;
+    height: 30px;
+    background: blue;
+    box-shadow: 3px 3px 3px ;
+}
+.footer{
+    border-radius:10px;
+    background: black;
+    box-shadow: 3px 3px 3px ;
+
+
+}
+
+a{
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 4px;
+
+}
+.item{
+float: right;
+padding-top: 5px;
+}
+.logo{
+    font-size: 20px;
+}
+h1{
+    border: 3px solid grey;
+    padding-left: 10px;
+    margin: 120px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 330px;
+    margin-top: 20px;
+    background: coral;
+margin-bottom: 0px;
+    
+}
+h2{
+    border: 3px solid green;
+    padding-left: 110px;
+    margin: 120px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 330px;
+    margin-top: 0px;
+    background: coral;
+    margin-bottom: 19px;
+    ;
+}
+
+h3{
+    border: 3px solid green;
+    padding-left: 110px;
+    margin: 120px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 330px;
+    margin-top: 0px;
+    background: coral;
+    margin-bottom: 19px;
+     
+}
+h4{
+    border: 3px solid green;
+    padding-left: 110px;
+    margin: 120px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 330px;
+    margin-top: 0px;
+    background: coral;
+    margin-bottom: 19px;
+
+}
+
+
+.pt{
+    display: flex;
+}
